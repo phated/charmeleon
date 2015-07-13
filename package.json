@@ -1,0 +1,30 @@
+{
+  "name": "charmeleon",
+  "version": "0.0.0",
+  "description": "Chokidar wrapper named after a joke by @thealphanerd",
+  "author": "Blaine Bublitz <blaine@iceddev.com> (http://iceddev.com)",
+  "contributors": [],
+  "repository": "phated/charmeleon",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "main": "index.js",
+  "files": [
+    "LICENSE",
+    "child.js",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "lab -cvL"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "chokidar",
+    "crash",
+    "segfault",
+    "watch",
+    "watcher"
+  ]
+}
